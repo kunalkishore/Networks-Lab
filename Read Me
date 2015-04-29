@@ -1,0 +1,5 @@
+Server : ./a.out 5000
+Client : ./a.out put file_name 127.0.0.1 5000
+	 ./a.out get file_name 127.0.0.1 5000
+	 ./a.out mput file_extension 127.0.0.1 5000
+	 ./a.out mget file_extension 127.0.0.1 5000
