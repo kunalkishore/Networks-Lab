@@ -1,5 +1,5 @@
 File Transfer Protocol (FTP) using Client-Server socket programming
-In this assignment, you require to implement two C programs, namely server and client to
+In this assignment, I implemented two C programs, namely server and client to
 communicate with each other based on TCP sockets. The aim is to implement a simple File
 Transfer Protocol (FTP). Initially, server will be waiting for a TCP connection from the client.
 Then, client will connect to the server using server’s TCP port already known to the client. After
